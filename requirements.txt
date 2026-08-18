@@ -1,0 +1,8 @@
+customtkinter>=2.4.0
+Pillow>=10.0.0
+pyperclip>=1.9.0
+pix2text>=0.8.0
+numpy<2.0
+
+# Avoid deprecated OCR dependencies from older stacks
+# pip install -r requirements.txt
